@@ -4,7 +4,7 @@
 * code description
 * Return: 0
 */
-intmain(void)
+int main(void)
 {
 putchar('_');
 putchar('p');
