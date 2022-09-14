@@ -1,5 +1,19 @@
-#include "main.h" 
-/**                                                                  *main - Entry point                                                  *Return: nothing,return void                                         **/                                                                  int main(void) 
-{                                                                    _putchar('_');                                                       _putchar('p');                                                       _putchar('u');                                                       _putchar('t');                                                       _putchar('c'); 
-_putchar('h');                                                       _putchar('a');                                                       _putchar('r');                                                       _putchar('\n');                                                      return (0); 
-} 
+#include<stdio.h>
+/**
+* main - Entry point
+* code description
+* Return: Always 0 (Success)
+*/
+intmain(void)
+{
+putchar('_');
+putchar('p');
+putchar('u');
+putchar('t');
+putchar('c');
+putchar('h');
+putchar('a');
+putchar('r');
+putchar('\n');
+return (0);
+}
