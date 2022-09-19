@@ -4,7 +4,7 @@
 *@s: string to find length
 *Return: length of string
 */
-int_strlen(char *s)
+int _strlen(char *s)
 {int m = 0;
 while (*(s + m))
 m++;
