@@ -5,9 +5,10 @@
 *Return: length of string
 */
 int_strlen(char *s)
-{intm = 0;
+{int m = 0;
 while (*(s + m))
 m++;
+
 return (m);
 }
 
